@@ -57,7 +57,7 @@ const SplashScreen = ({ onEnter, visible }: { onEnter: () => void, visible: bool
             priority
           />
         </div>
-        <p className="mb-4 text-lg text-foreground">Doge Treasury Mush Wow!</p>
+        <p className="mb-4 text-lg text-foreground">Doge Treasury Much Wow!</p>
         <Button onClick={onEnter} size="lg" className="text-lg py-6 bg-secondary hover:bg-secondary/80 text-secondary-foreground font-body">
           ENTER
         </Button>
@@ -133,7 +133,7 @@ export default function Home() {
                   <Link href="https://t.me/BTOG_entry">TELEGRAM</Link>
                 </Button>
                 <Button asChild size="lg" variant="outline" className="text-lg py-6 border-2 border-foreground hover:bg-accent hover:text-accent-foreground">
-                  <Link href="https://x.com/Bit_Origin">X</Link>
+                  <Link href="https://x.com/Bitorigineth?s=09">X</Link>
                 </Button>
                 <Button asChild size="lg" variant="outline" className="text-lg py-6 border-2 border-foreground hover:bg-accent hover:text-accent-foreground">
                   <Link href="https://dexscreener.com/search?q=0xdf12f1C62b24eB92302D89D96C343b90F77a67a2">DEX</Link>
