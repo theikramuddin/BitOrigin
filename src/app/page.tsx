@@ -57,7 +57,7 @@ const SplashScreen = ({ onEnter, visible }: { onEnter: () => void, visible: bool
             priority
           />
         </div>
-        <p className="mb-4 text-lg text-foreground">Hit the button and get treasure</p>
+        <p className="mb-4 text-lg text-foreground">Doge Treasury Mush Wow!</p>
         <Button onClick={onEnter} size="lg" className="text-lg py-6 bg-secondary hover:bg-secondary/80 text-secondary-foreground font-body">
           ENTER
         </Button>
@@ -124,7 +124,7 @@ export default function Home() {
               Bit Origin
             </h1>
             <p className="mt-4 text-3xl md:text-4xl text-muted-foreground">
-              The friendliest computer in the cryptoverse.
+            We like the Stonks! $BTOG on ETH
             </p>
             
             <div className="mt-12 w-full max-w-md">
