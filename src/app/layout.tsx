@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'Bit Origin - The friendliest computer in the cryptoverse.',
-  description: 'The friendliest computer in the cryptoverse.',
+  title: 'Bit Origin - We like the Stonks! $BTOG on ETH',
+  description: 'We like the Stonks! $BTOG on ETH',
 };
 
 export default function RootLayout({
