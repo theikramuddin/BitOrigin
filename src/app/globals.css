@@ -59,7 +59,7 @@
   }
   body {
     @apply bg-background text-foreground;
-    background-image: url('https://pbs.twimg.com/media/GwN_7sdWkAIdGZz?format=jpg&name=large');
+    background-image: url('https://res.cloudinary.com/ds0ifdrhk/image/upload/v1753875950/WhatsApp_Image_2025-07-22_at_16.41.30_d717c094_vujfc9.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

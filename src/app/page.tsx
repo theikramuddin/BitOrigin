@@ -68,7 +68,7 @@ const SplashScreen = ({ onEnter, visible }: { onEnter: () => void, visible: bool
 
 
 export default function Home() {
-  const contractAddress = "0xdf12f1C62b24eB92302D89D96C343b90F77a67a2";
+  const contractAddress = "0x69c15D4FBc70e8596f42A97E167Afb6F4340642F";
   const [showSplash, setShowSplash] = useState(true);
   
   const handleEnter = () => {
