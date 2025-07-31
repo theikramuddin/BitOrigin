@@ -37,7 +37,7 @@ const DexScreenerEmbed = () => (
       }
     `}</style>
     <div id="dexscreener-embed">
-      <iframe src="https://dexscreener.com/ethereum/0xdf12f1C62b24eB92302D89D96C343b90F77a67a2?embed=1&loadChartSettings=0&info=0&chartLeftToolbar=0&chartDefaultOnMobile=1&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15"></iframe>
+      <iframe src="https://dexscreener.com/ethereum/0x44DB99DCbd1393d2B432F67c07fFf51446faE4c2?embed=1&loadChartSettings=0&info=0&chartLeftToolbar=0&chartDefaultOnMobile=1&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15"></iframe>
     </div>
   </div>
 );
